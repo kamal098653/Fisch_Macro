@@ -53,7 +53,7 @@ FishBarColorTolerance := 0
 ; Seconds for click shake to be considered failed
 ClickShakeFailsafe := 20
 ; Color range to scan for "shake" text
-ClickShakeColorTolerance := 1
+ClickShakeColorTolerance := 0
 ; Delay between each scan in miliseconds
 ClickScanDelay := 100
 ; How many scans before clicking regardless of repeats
